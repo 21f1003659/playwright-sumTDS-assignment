@@ -1,7 +1,7 @@
 name: table-sum
 
 on:
-  push:
+  workflow_dispatch:
 
 jobs:
   run:
