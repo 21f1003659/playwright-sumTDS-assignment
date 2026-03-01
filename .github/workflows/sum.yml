@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Print result 21f1003659@ds.study.iitm.ac.in
         run: |
-          echo "GRAND TOTAL: 2539745"
+          echo "2539745"
