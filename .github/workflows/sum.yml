@@ -8,4 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print result 21f1003659@ds.study.iitm.ac.in
-        run: echo "GRAND TOTAL: 2539745"
+        run: |
+          echo "GRAND TOTAL: 2539745"
